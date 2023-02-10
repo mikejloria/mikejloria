@@ -1,10 +1,7 @@
 [![MasterHead](https://coding.blog/img/account-banner.svg)]()
-<h1 align="center">Hello 👋🏼 I'm Michael</h1>
+<h1 align="center">Hello 👋, I'm Michael</h1>
 <h3 align="center">Java Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikejloria&label=Profile%20views&color=0e75b6&style=flat" alt="mikejloria" /> </p>
 
 - 🔭 I’m currently working on **Algorithms & Data Structures**
 
