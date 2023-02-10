@@ -1,5 +1,5 @@
 [![MasterHead](https://coding.blog/img/account-banner.svg)]()
-<h1 align="center">Hello 👋, I'm Michael</h1>
+<h1 align="center">Hello 👋🏼 I'm Michael</h1>
 <h3 align="center">Java Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
 
