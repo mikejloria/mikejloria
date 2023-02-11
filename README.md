@@ -1,6 +1,6 @@
 [![MasterHead](https://coding.blog/img/account-banner.svg)]()
 <h1 align="center">Hello 👋🏼 I'm Michael</h1>
-<h3 align="center">Java Web Developer</h3>
+<p align="center">I'm a software developer. I am passionate about building software and writing code.</p>
 <img align="right" alt="Coding" width="400" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
 
 - 🔭 I’m currently working on **Algorithms & Data Structures**
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mikejloria@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19xWZyu1d4TWLz58pjJcOAmS4JZUqeY0m-YdmUS9Nvbo/edit?usp=sharing](https://docs.google.com/document/d/19xWZyu1d4TWLz58pjJcOAmS4JZUqeY0m-YdmUS9Nvbo/edit?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1EbRTFGhzrrgCfse8P2TdTIROKcbkFc0D/view?usp=sharing">My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
