@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **SpringBoot Microservices**
 
-- 👯 I’m looking to collaborate on **Web**
+- 👯 I’m looking to collaborate on **Full Stack Web**
 
-- 🤝 I’m looking for help on **Applications**
+- 🤝 I’m looking for help on **Open Positions**
 
 - 💬 Ask me about **Java**
 
