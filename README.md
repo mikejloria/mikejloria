@@ -1,6 +1,6 @@
 [![MasterHead](https://coding.blog/img/account-banner.svg)]()
-<h1 align="center">Hello 👋🏼 I'm Michael</h1>
-<p align="center">I'm a software developer. I am passionate about building software and writing code.</p>
+<h1 align="center"></h1>
+<p align="center">Hello I'm @mikejloria. I'm a software developer. I am passionate about building software and writing code.</p>
 <img align="right" alt="Coding" width="400" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
 
 - 🔭 I’m currently working on **Algorithms & Data Structures**
