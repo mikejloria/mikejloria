@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mikejloria@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1EbRTFGhzrrgCfse8P2TdTIROKcbkFc0D/view?usp=sharing">My CV</a>
+- 📄 Know about my experiences: <a href="https://docs.google.com/document/d/19xWZyu1d4TWLz58pjJcOAmS4JZUqeY0m-YdmUS9Nvbo/edit?usp=sharing">My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
