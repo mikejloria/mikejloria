@@ -3,15 +3,15 @@
 <p align="center">Hello I'm @mikejloria. I'm a software developer. I am passionate about building software and writing code.</p>
 <img align="right" alt="Coding" width="400" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
 
-- 🔭 I’m currently working on **Algorithms & Data Structures**
+- 🔭 I’m currently working on **Freelance Web Development**
 
-- 🌱 I’m currently learning **SpringBoot Microservices**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **Full Stack Web**
 
-- 🤝 I’m looking for help on **Open Positions**
+- 🤝 I’m looking for help on **Open Source**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JS**
 
 - 📫 How to reach me **mikejloria@gmail.com**
 
