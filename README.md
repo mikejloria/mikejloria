@@ -1,6 +1,6 @@
 [![MasterHead](https://coding.blog/img/account-banner.svg)]()
 <h1 align="center"></h1>
-<p align="center">Code</p>
+<p align="center">B.S. Computer Science | CSULA</p>
 <img align="right" alt="Coding" width="400" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
 
 - 🔭 I’m currently working on **Freelance Web Development**
