@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Freelance Web Development**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms. Graph Theory**
 
 - 👯 I’m looking to collaborate on **Full Stack Web**
 
