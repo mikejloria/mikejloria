@@ -3,7 +3,7 @@
 <p align="center">Dedication makes dreams come true. - Kobe Bryant</p>
 <img align="right" alt="Coding" width="400" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
 
-- 🔭 I’m currently working on **Freelance Web Development**
+- 🔭 I’m currently working as a **Freelance Web Developer**
 
 - 🌱 I’m currently learning **Data Structures, Algorithms, Graph Theory**
 
